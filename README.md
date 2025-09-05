@@ -1,4 +1,4 @@
-# 💫 I'm PRINCE JHA 👋,
+# 💫hii👋, I'm PRINCE JHA 
 **A Passionate MERN Developer || Software Engineer || BTech UnderGrad**
 
 Email Me 👉 ✉️ *princejha1456@gmail.com** For Collaboration/Project or Anything Else. 😊😊
