@@ -1,15 +1,12 @@
 # 💫Hii👋, I'm PRINCE JHA 
 **Software Engineer || BTech ECE UnderGrad**<br>
 **I am passionate about Web Development👨🏻‍💻**<br>
-**Currently I am exploring  JAVA DSA and Web Development.**
 
 Email Me 👉 ✉️ **princejha1456@gmail.com** For Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on :** [PRINCE-DSA--JOURNAL](https://github.com/iprince10/PRINCE-DSA--Journal)
 - 🌱 **I’m currently learning :** MERN STACK
 - 📫 **How to reach me :** princejha1456@gmail.com
-- 😄 **Pronouns:** He/Him
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=iprince10&theme=radical&no-frame=false&no-bg=true&margin-w=4)
