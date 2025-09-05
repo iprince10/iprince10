@@ -25,14 +25,7 @@ Email Me 👉 ✉️ **princejha1456@gmail.com** For Project or Anything Else. �
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iprince10&theme=radical&utcOffset=8">
 <img height="169em" src="https://github-readme-stats.vercel.app/api?username=iprince10&theme=radical&hide_border=false&include_all_commits=true&count_private=true">
 <img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=iprince10&theme=radical">
-
-</div>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iprince10&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
-![](https://github-readme-stats.vercel.app/api?username=iprince10&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=iprince10&theme=dark&hide_border=false)
-
-</div><br>
+<br>
 
 <!-- Snake Game Repo View -->
 
