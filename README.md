@@ -1,6 +1,6 @@
-# 💫Hii👋, I'm PRINCE JHA 
-**Software Engineer || BTech ECE UnderGrad**<br>
-**I am passionate about Web Development👨🏻‍💻**<br>
+<h2 align="left">💫Hii👋, I'm PRINCE JHA <br>
+Software Engineer || BTech ECE UnderGrad<br>
+I am passionate about Web Development👨🏻‍💻<br></h2>
 
 Email Me 👉 ✉️ **princejha1456@gmail.com** For Project or Anything Else. 😊😊
 
