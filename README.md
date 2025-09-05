@@ -1,5 +1,5 @@
 # 💫Hii👋, I'm PRINCE JHA 
-**A Passionate MERN Developer || Software Engineer || BTech UnderGrad**
+**A Passionate MERN Developer || Software Engineer || BTech ECE UnderGrad**
 
 Email Me 👉 ✉️ **princejha1456@gmail.com** For Project or Anything Else. 😊😊
 
