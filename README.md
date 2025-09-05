@@ -1,7 +1,7 @@
 # 💫Hii👋, I'm PRINCE JHA 
 **A Passionate MERN Developer || Software Engineer || BTech UnderGrad**
 
-Email Me 👉 ✉️ *princejha1456@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **princejha1456@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on :**[PRINCE-DSA--JOURNAL](https://github.com/iprince10/PRINCE-DSA--Journal)
 - 🌱 **I’m currently learning :** MERN STACK
