@@ -41,6 +41,7 @@ I am passionate about Web Development👨🏻‍💻<br>
 <div align="center">
   <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iprince10&theme=radical" />
   <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iprince10&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iprince10&layout=compact&theme=radical" />
 </div>
 
 ---
