@@ -1,12 +1,24 @@
-<h2 align="left">💫Hii👋, I'm PRINCE JHA <br>
-Software Engineer || BTech ECE UnderGrad<br>
-I am passionate about Web Development👨🏻‍💻<br></h2>
+<div align="center">
+  <img height="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGl5ajNxNzRvOWJmdTFqYXZpeG1pNGV2eXUzb2R2Mjg4cXZud2VvMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
+</div>
 
-Email Me 👉 ✉️ **princejha1456@gmail.com** For Project or Anything Else. 😊😊
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hii+I'm+Prince+Jha;Full-Stack+Developer;Tech+Explorer+%26+Builder" alt="Typing SVG" />
+</div>
+<hr>
+
+<h2 align="left">💫Hii👋 there<br></h2>
+I am Prince Jha || Full Stack Developer || BTech ECE UnderGrad<br>
+Currently I am in third year at Jamia Hamdard University<br>
+I am passionate about Web Development👨🏻‍💻<br>
+
+<hr>
 
 - 🔭 **I’m currently working on :** [PRINCE-DSA--JOURNAL](https://github.com/iprince10/PRINCE-DSA--Journal)
 - 🌱 **I’m currently learning :** MERN STACK
-- 📫 **How to reach me :** princejha1456@gmail.com
+- 📫 **Email Me 👉 ✉️ :** **princejha1456@gmail.com** For Project or Anything Else. 😊😊
+
+<hr>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=iprince10&theme=radical&no-frame=false&no-bg=true&margin-w=4)
