@@ -7,7 +7,7 @@
 </div>
 <hr>
 
-<h2 align="left">💫Hii👋 there<br></h2>
+<h1 align="left">💫Hii👋 there<br></h1>
 I am Prince Jha || Full Stack Developer || BTech ECE UnderGrad<br>
 Currently I am in third year at Jamia Hamdard University<br>
 I am passionate about Web Development👨🏻‍💻<br>
