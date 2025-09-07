@@ -51,7 +51,8 @@ I am passionate about Web Development👨🏻‍💻</h3>
 ---
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_iprince10) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iprince10) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_xprince10) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:princejha1456@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_iprince10) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iprince10) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_xprince10) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:princejha1456@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=white)](https://leetcode.com/_iprince10)
+
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
