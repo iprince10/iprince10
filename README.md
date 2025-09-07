@@ -1,3 +1,4 @@
+<hr>
 <div align="center">
   <img height="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGl5ajNxNzRvOWJmdTFqYXZpeG1pNGV2eXUzb2R2Mjg4cXZud2VvMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
 </div>
