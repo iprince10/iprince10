@@ -10,11 +10,11 @@
 ---
 
 <h1 align="left">💫Hii👋 there<br></h1>
-I am Prince Jha || Full Stack Developer || BTech ECE UnderGrad<br>
+<h3>I am Prince Jha || Full Stack Developer || BTech ECE UnderGrad<br>
 Currently I am in third year at Jamia Hamdard University<br>
-I am passionate about Web Development👨🏻‍💻<br>
+I am passionate about Web Development👨🏻‍💻</h3>
 
----
+<hr>
 
 - 🔭 **I’m currently working on :** [PRINCE-DSA--JOURNAL](https://github.com/iprince10/PRINCE-DSA--Journal)
 - 🌱 **I’m currently learning :** MERN STACK
