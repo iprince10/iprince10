@@ -37,6 +37,7 @@ I am passionate about Web Development👨🏻‍💻</h3>
   <img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=iprince10&theme=radical" />
 </div>
 
+---
 <!-- Snake Game Repo View -->
 
 <div align="center">
