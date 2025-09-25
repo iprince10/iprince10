@@ -34,15 +34,15 @@ I am passionate about Web Development👨🏻‍💻</h3>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=iprince10&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
   <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iprince10&theme=radical" />
   <img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=iprince10&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iprince10&layout=compact&theme=radical" />
+  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iprince10&layout=compact&theme=radical" /> -->
 </div>
 
 ---
 <!-- Snake Game Repo View -->
 
-<div align="center">
+<!--<div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+</div> -->
 
 ---
 
