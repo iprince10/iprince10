@@ -17,7 +17,7 @@ I am passionate about Web Development and Embedded Systems👨🏻‍💻</h3>
 <hr>
 
 - 🔭 **I’m currently working on :** [PRINCE-DSA--JOURNAL](https://github.com/iprince10/PRINCE-DSA--Journal)
-- 🌱 **I’m currently learning :** MERN STACK and Embedded Software ENgineering.
+- 🌱 **I’m currently learning :** MERN STACK and Embedded Software Engineering.
 - 📫 **Email Me 👉 ✉️ :** **princejha1456@gmail.com** For Project or Anything Else. 😊😊
 
 ---
