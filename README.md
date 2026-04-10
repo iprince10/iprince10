@@ -10,9 +10,9 @@
 ---
 
 <h1 align="left">💫Hii👋 there<br></h1>
-<h3>I am Prince Jha || Full Stack Developer || BTech ECE UnderGrad<br>
+<h3>I am Prince Jha || Full Stack Developer || Embedded Software System Engineer || BTech ECE UnderGrad<br>
 Currently I am in third year at Jamia Hamdard University<br>
-I am passionate about Web Development👨🏻‍💻</h3>
+I am passionate about Web Development and Embedded Systems👨🏻‍💻</h3>
 
 <hr>
 
