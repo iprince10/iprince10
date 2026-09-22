@@ -75,11 +75,11 @@ I am passionate about Embedded & Software Systems and Bare Metal Development ðŸ‘
 ![MATLAB](https://img.shields.io/badge/MATLAB-%23FF7A00.svg?style=for-the-badge\&logo=mathworks\&logoColor=white)
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-%23FF7F00.svg?style=for-the-badge&logo=platformio&logoColor=white)
 
-## GitHub Stats
+<!-- ## GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iprince10&theme=radical" width="90%" />
-</div>
+</div> -->
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iprince10) 
