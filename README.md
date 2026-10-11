@@ -21,14 +21,6 @@ I am passionate about Embedded & Software Systems and Bare Metal Development �
 -  **Visit My Portfolio : [iprince10](https://iprince10.github.io)**
 -  **Email Me ✉️ : princejha1456@gmail.com** For Project or Anything Else. 😊
 
-<!--## 📊 GitHub Activity -->
-
-<!-- <div align="center">
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iprince10&theme=react-dark&hide_border=true" width="95%" />
-
-</div> -->
-
 ---
 
 ## Tech Stack:
@@ -75,11 +67,15 @@ I am passionate about Embedded & Software Systems and Bare Metal Development �
 ![MATLAB](https://img.shields.io/badge/MATLAB-%23FF7A00.svg?style=for-the-badge\&logo=mathworks\&logoColor=white)
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-%23FF7F00.svg?style=for-the-badge&logo=platformio&logoColor=white)
 
-<!-- ## GitHub Stats
+## GitHub Stats
 
-<!-- <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iprince10&theme=radical" width="90%" />
-</div> -->
+<div align="center">
+<br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iprince10&theme=dark&hide_border=true" />
+
+</div>
+
+<br>
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iprince10) 
