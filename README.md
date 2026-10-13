@@ -12,7 +12,7 @@
 <h1 align="left">Hii there 👋<br></h1>
 <h3>I am Prince Jha || Embedded Software Engineer || BTech ECE UnderGrad<br>
 Currently I am in final year at Jamia Hamdard University<br>
-I am passionate about Embedded Software and Electronic Systems, Bare Metal Development and Register Level Programming👨🏻‍💻</h3>
+I am passionate about Embedded Software & Electronic Systems, Firmware Development and Register Level Programming👨🏻‍💻</h3>
 
 <hr>
 
